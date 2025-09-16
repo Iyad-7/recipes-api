@@ -9,11 +9,11 @@ This project allows users to add recipes (via POST) and view all stored recipes 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recipe-api.git
+   git clone https://github.com/Iyad-7/recipes-api.git
    cd recipe-api
 
 
-Deployed API URL:https://recipe-api-yourname.onrender.com
+Deployed API URL:https://recipe-api-iyad.onrender.com
 
 API Endpoint Documentation
 

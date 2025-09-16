@@ -6,5 +6,13 @@
     "instructions": "Boil pasta. Fry bacon. Mix with eggs and cheese. Combine with pasta.",
     "cookTime": "20 minutes",
     "difficulty": "medium"
+  },
+  {
+    "id": 1758015887317,
+    "title": "Spaghetti Carbonara",
+    "ingredients": "Spaghetti, Eggs, Bacon, Parmesan, Black Pepper",
+    "instructions": "Boil pasta. Fry bacon. Mix with eggs and cheese. Combine with pasta.",
+    "cookTime": "20 minutes",
+    "difficulty": "medium"
   }
 ]
